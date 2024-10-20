@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.frst-bg {
+    background-color: #1b1b1b;
+    padding: 20px;
+}
+
+.frst-head {
+    color: #ffffff;
+    font-family: "Bree serif";
+    font-size: 35px;
+}
+
+.inner-frst-bg {
+    background-color: #e6f6ff;
+    border-radius: 20px;
+    margin: 20px;
+    font-family: "Bree serif";
+}
+
+.frst-ima {
+    height: 250px;
+    width: 200px;
+    margin-right: 10px;
+}
+
+.inner-head {
+    color: #183b56;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.inner-para {
+    color: #06070d;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.inner-para1 {
+    color: #183b56;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.inner-but {
+    margin-bottom: 10px;
+    font-family: "Roboto";
+}
+
+.book {
+    margin: 20px;
+    font-family: "Bree serif";
+}
+
+.frst-ima1 {
+    height: 220px;
+    width: 150px;
+    margin-right: 10px;
+}
+
+.inner-head1 {
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.inner-para11 {
+    color: #e4e7eb;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.inner-para12 {
+    color: #e4e7eb;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.book1 {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.sec-head {
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Bree serif";
+    padding-left: 20px;
+}
+
+.but {
+    height: 325px;
+    width: 200px;
+}
+
+.tot {
+    text-align: center;
+}
+
+.head {
+    color: #ffffff;
+    font-family: "Bree serif";
+    text-align: center;
+    font-size: 35px;
+}
+
+.inner-par {
+    color: #e4e7eb;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    font-family: "Bree serif";
+}
+
+.par {
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: "Bree serif";
+}
+
+.v {
+    text-align: center;
+    margin: 20px;
+}
+
+.but1 {
+    margin-right: 10px;
+}
+
+.t {
+    padding: 10px;
+    font-family: "Bree serif";
+}
